@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z0qNZ+7hafXIhCctvywY4wcAs/J4SqswXvJyNt/bZ0G5MUt9Eu2ZBDe9YYFzZSVmvhhWSvuZaGIXhHKvb4PgJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ayala\\OneDrive\\Desktop\\godot\\game_1_platformer_rpg\\Platformer RPG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ayala\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\ayala\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.2\\microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

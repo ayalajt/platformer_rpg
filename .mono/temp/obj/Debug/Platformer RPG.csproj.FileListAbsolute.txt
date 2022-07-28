@@ -1,0 +1,9 @@
+C:\Users\ayala\OneDrive\Desktop\godot\game_1_platformer_rpg\.mono\temp\obj\Debug\Platformer RPG.csproj.AssemblyReference.cache
+C:\Users\ayala\OneDrive\Desktop\godot\game_1_platformer_rpg\.mono\temp\obj\Debug\Platformer RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayala\OneDrive\Desktop\godot\game_1_platformer_rpg\.mono\temp\obj\Debug\Platformer RPG.AssemblyInfoInputs.cache
+C:\Users\ayala\OneDrive\Desktop\godot\game_1_platformer_rpg\.mono\temp\obj\Debug\Platformer RPG.AssemblyInfo.cs
+C:\Users\ayala\OneDrive\Desktop\godot\game_1_platformer_rpg\.mono\temp\obj\Debug\Platformer RPG.csproj.CoreCompileInputs.cache
+C:\Users\ayala\OneDrive\Desktop\godot\game_1_platformer_rpg\.mono\temp\bin\Debug\Platformer RPG.dll
+C:\Users\ayala\OneDrive\Desktop\godot\game_1_platformer_rpg\.mono\temp\bin\Debug\Platformer RPG.pdb
+C:\Users\ayala\OneDrive\Desktop\godot\game_1_platformer_rpg\.mono\temp\obj\Debug\Platformer RPG.dll
+C:\Users\ayala\OneDrive\Desktop\godot\game_1_platformer_rpg\.mono\temp\obj\Debug\Platformer RPG.pdb
