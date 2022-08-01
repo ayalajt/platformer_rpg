@@ -76,6 +76,7 @@ public class Player : KinematicBody2D
 	private void onFallzoneBodyEntered(object body)
 	{
 		GetTree().ChangeScene("res://Level1.tscn");
+		health = health - 1;
 	}
 
 	public int getHealth() 

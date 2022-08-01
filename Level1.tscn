@@ -1,4 +1,4 @@
-[gd_scene load_steps=10 format=2]
+[gd_scene load_steps=11 format=2]
 
 [ext_resource path="res://level_1_tileset.tres" type="TileSet" id=1]
 [ext_resource path="res://Player.tscn" type="PackedScene" id=2]
@@ -6,6 +6,7 @@
 [ext_resource path="res://assets/background/set2_background.png" type="Texture" id=4]
 [ext_resource path="res://assets/background/set2_tiles.png" type="Texture" id=5]
 [ext_resource path="res://HUD.tscn" type="PackedScene" id=6]
+[ext_resource path="res://Enemy.tscn" type="PackedScene" id=7]
 
 [sub_resource type="RectangleShape2D" id=1]
 extents = Vector2( 352, 32 )
@@ -123,5 +124,10 @@ position = Vector2( 3152, 32 )
 shape = SubResource( 3 )
 
 [node name="HUD" parent="." instance=ExtResource( 6 )]
+
+[node name="Enemies" type="Node2D" parent="."]
+
+[node name="Enemy" parent="Enemies" instance=ExtResource( 7 )]
+position = Vector2( 736, 480 )
 
 [connection signal="body_entered" from="Fallzone" to="Player" method="onFallzoneBodyEntered"]
